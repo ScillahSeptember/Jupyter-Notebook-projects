@@ -1,4 +1,4 @@
-# Data Analysis Project
+# Data Analysis Projects
 
 ## 📌 Overview
 
